@@ -1,6 +1,6 @@
 # The server-side of the application is a chat with various functionality.<br>
 
-### Stack: TypeScript, NestJS, Redis, Jest, MongoDB, WebSocket
+### Stack: TypeScript, NestJS, Redis, MongoDB, WebSocket
 
 The following functionality has been implemented:
 
